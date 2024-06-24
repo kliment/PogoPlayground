@@ -1283,7 +1283,7 @@
     (property "Reference" "R33" (at 72.39 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "5.5R" (at 72.39 40.64 90)
+    (property "Value" "5.49R" (at 72.39 40.64 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 72.39 42.418 90)
